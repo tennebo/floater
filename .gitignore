@@ -1,0 +1,13 @@
+# IntelliJ IDEA
+/out/
+.idea
+*.iws
+*.iml
+*.ipr
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
